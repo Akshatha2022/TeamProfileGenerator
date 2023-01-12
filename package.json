@@ -1,9 +1,27 @@
 {
-  "dependencies": {
-    "inquirer": "^8.2.5"
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "User Story",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
   },
-  "devDependencies": {
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshatha2022/TeamProfileGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshatha2022/TeamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/Akshatha2022/TeamProfileGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
     "jest": "^29.3.1"
   }
 }
-
