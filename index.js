@@ -108,7 +108,7 @@ async function promptQuestions() {
       {
         name:'addMember',
         type: 'list',
-        choices: ['Add a new member', 'Create team'],
+        choices: ['Add a new member', 'Create a team'],
         message: "What would you like to do next?"
       }
     ])
