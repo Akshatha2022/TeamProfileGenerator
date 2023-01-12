@@ -128,7 +128,7 @@ Video Link: Because this is a command-line application won’t be deployed, here
 
 [Repo Link](https://github.com/Akshatha2022/TeamProfileGenerator)
 
-
+Sample Team Profile Link : file:///C:/Users/aksha/Downloads/TeamProfileGenerator/output/index.html
 
 
 Resources:
