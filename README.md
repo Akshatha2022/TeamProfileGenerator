@@ -120,15 +120,18 @@ In addition to `Employee`'s properties and methods, `Intern` will also have the 
 Screenshot: ![](./assets/MyTeamScreenShot.jpg)
 
 
-Screenshot of the info added in the video link 
+Screenshot of the sample HTML file generated  
 ![](./assets/Sample%20Output.jpg)
+and Sample HTML Generated file: 
+<a href="https://github.com/Akshatha2022/TeamProfileGenerator/blob/main/output/index.html">Link</a> 
 
 Video Link: Because this is a command-line application won’t be deployed, here is a <a href="https://drive.google.com/file/d/1lrtYsT5ef08NHKKLlPRqJ1wNyVzLp2g0/view" target="_blank">Link</a> to a video walkthrough that demonstrates the functionality of my application.
 
 
 [Repo Link](https://github.com/Akshatha2022/TeamProfileGenerator)
 
-Sample Team Profile : <a href= "file:///C:/Users/aksha/Downloads/TeamProfileGenerator/output/index.html">Link</a> 
+
+
 
 
 
