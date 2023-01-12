@@ -115,8 +115,37 @@ In addition to `Employee`'s properties and methods, `Intern` will also have the 
 
 
 
+
+
+Screenshot: ![](./assets/MyTeamScreenShot.jpg)
+
+
+Screenshot of the info added in the video link 
+![](./assets/Sample%20Output.jpg)
+
+Video Link: Because this is a command-line application won’t be deployed, here is a <a href="https://drive.google.com/file/d/1lrtYsT5ef08NHKKLlPRqJ1wNyVzLp2g0/view" target="_blank">Link</a> to a video walkthrough that demonstrates the functionality of my application.
+
+
+[Repo Link](https://github.com/Akshatha2022/TeamProfileGenerator)
+
+
+
+
 Resources:
-https://itsjavascript.com/npm-err-missing-script-start
-https://stackoverflow.com/questions/70596519/cant-get-data-to-generator-page-in-node-js
-https://www.npmjs.com/package/inquirer/v/8.2.4
-https://www.npmjs.com/package/jest
+
+[1] [npm-err-missing-script-start](https://itsjavascript.com/npm-err-missing-script-start)
+
+[2] [cant-get-data](https://stackoverflow.com/questions/70596519/cant-get-data-to-generator-page-in-node-js)
+
+[3] [inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4)
+
+[4] [Jest Package](https://www.npmjs.com/package/jest)
+
+[5] [Node Module](https://stackoverflow.com/questions/47083351/node-module-not-found)
+
+[6] [Generate Readme](https://www.npmjs.com/package/generate-readme)
+
+[7] [Professional Readme](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+
+[8] [Video Submission Guide](https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide)
+
