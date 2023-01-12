@@ -112,3 +112,11 @@ In addition to `Employee`'s properties and methods, `Intern` will also have the 
 * `getSchool()`
 
 * `getRole()`&mdash;overridden to return `'Intern'`
+
+
+
+Resources:
+https://itsjavascript.com/npm-err-missing-script-start
+https://stackoverflow.com/questions/70596519/cant-get-data-to-generator-page-in-node-js
+https://www.npmjs.com/package/inquirer/v/8.2.4
+https://www.npmjs.com/package/jest
